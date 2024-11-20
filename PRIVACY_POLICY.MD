@@ -1,5 +1,7 @@
 <h1>Scratch Art Privacy Policy</h1>
+
 Scratch Art is a simple drawing app to simulate the use of a charcoal scratch pad in an app. The apps functionality is entertain the user is scratching off the black charcoal layer of the pad to create simple art. No personal and/or sensitive data is created and/or transmitted within the core functionality of the app. Below is a list of device permissions requested in app with their purpose.
+
 
 <b>Permissions Requested In App</b>
 
